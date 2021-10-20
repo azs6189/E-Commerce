@@ -72,4 +72,4 @@ node server.js
 
 ## Video
 
-Link to [E-Commerce Video](https://drive.google.com/file/d/1eDG5jSgNeYe3TqWf77WGbNKmXMz9q6go/view?usp=sharing)
+Link [E-Commerce Video](https://drive.google.com/file/d/1eDG5jSgNeYe3TqWf77WGbNKmXMz9q6go/view?usp=sharing)
