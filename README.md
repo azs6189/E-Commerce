@@ -72,6 +72,4 @@ node server.js
 
 ## Video
 
-Link to [Employee-Tracker Video](https://drive.google.com/file/d/1vxH8DDKKsGLasg4-1c1563hiRuIElO32/view?usp=sharing)
-
-![alt text](./Employee-Tracker.gif)
+Link to [E-Commerce Video](https://drive.google.com/file/d/1eDG5jSgNeYe3TqWf77WGbNKmXMz9q6go/view?usp=sharing)
